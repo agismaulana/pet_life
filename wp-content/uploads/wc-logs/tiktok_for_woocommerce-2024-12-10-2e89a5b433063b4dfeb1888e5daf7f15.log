@@ -1,0 +1,16 @@
+2024-12-10T01:58:49+00:00 DEBUG POST: https://business-api.tiktok.com/tbp/v2.0/business_profile/disconnect?external_data=
+
+{"business_platform":"WOO_COMMERCE","external_business_id":"tt4b_woocommerce_675587713a81e"}
+ ajax: no
+2024-12-10T01:58:49+00:00 ERROR Tt4b_Mapi_Class::tbp_post: Response: 
+
+http_request_failed: cURL error 6: Could not resolve host: business-api.tiktok.com
+
+2024-12-10T01:58:49+00:00 DEBUG POST: https://business-api.tiktok.com/tbp/v2.0/shop/connection/disconnect?external_data=
+
+--- EMPTY STRING ---
+ ajax: no
+2024-12-10T01:58:49+00:00 ERROR Tt4b_Mapi_Class::tts_shop_disconnect: Response: 
+
+http_request_failed: cURL error 6: Could not resolve host: business-api.tiktok.com
+

@@ -1,0 +1,402 @@
+2024-12-15T09:33:33+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log Sun, 15 Dec 2024 16:33:33 +0700====
+Array
+(
+    [transaction_details] => Array
+        (
+            [order_id] => 264
+            [gross_amount] => 50000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => John
+            [last_name] => Doe
+            [email] => agismaulana112@gmail.com
+            [phone] => 085320344197
+            [billing_address] => Array
+                (
+                    [first_name] => John
+                    [last_name] => Doe
+                    [address] => Jl. Muttaqin IV 002/010 DF14/15 Pondok Petir Bojongsari Depok Jawa Barat Indonesia 16517
+                    [city] => Depok
+                    [postal_code] => 16517
+                    [phone] => 085320344197
+                    [country_code] => IDN
+                )
+
+            [shipping_address] => Array
+                (
+                    [first_name] => John
+                    [last_name] => Doe
+                    [address] => Jl. Muttaqin IV 002/010 DF14/15 Pondok Petir Bojongsari Depok Jawa Barat Indonesia 16517
+                    [city] => Depok
+                    [postal_code] => 16517
+                    [phone] => 085320344197
+                    [country_code] => IDN
+                )
+
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 85
+                    [price] => 50000
+                    [quantity] => 1
+                    [name] => Whiskas
+                )
+
+        )
+
+    [credit_card] => Array
+        (
+            [secure] => 1
+            [bank] => BCA,BRI,BNI,MANDIRI
+        )
+
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [version] => 2.32.3
+                    [wc] => 9.4.3
+                    [php] => 8.1.10
+                )
+
+        )
+
+)
+
+====End Log Sun, 15 Dec 2024 16:33:33 +0700 (0)====
+
+
+2024-12-15T09:35:01+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log Sun, 15 Dec 2024 16:35:01 +0700====
+Array
+(
+    [transaction_details] => Array
+        (
+            [order_id] => 265
+            [gross_amount] => 9950
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => John
+            [last_name] => Doe
+            [email] => agismaulana112@gmail.com
+            [phone] => 085320344197
+            [billing_address] => Array
+                (
+                    [first_name] => John
+                    [last_name] => Doe
+                    [address] => Jl. Muttaqin IV 002/010 DF14/15 Pondok Petir Bojongsari Depok Jawa Barat Indonesia 16517
+                    [city] => Depok
+                    [postal_code] => 16517
+                    [phone] => 085320344197
+                    [country_code] => IDN
+                )
+
+            [shipping_address] => Array
+                (
+                    [first_name] => John
+                    [last_name] => Doe
+                    [address] => Jl. Muttaqin IV 002/010 DF14/15 Pondok Petir Bojongsari Depok Jawa Barat Indonesia 16517
+                    [city] => Depok
+                    [postal_code] => 16517
+                    [phone] => 085320344197
+                    [country_code] => IDN
+                )
+
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 93
+                    [price] => 9950
+                    [quantity] => 1
+                    [name] => Aksesoris kalung hewan kurmin
+                )
+
+        )
+
+    [credit_card] => Array
+        (
+            [secure] => 1
+        )
+
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [version] => 2.32.3
+                    [wc] => 9.4.3
+                    [php] => 8.1.10
+                )
+
+        )
+
+)
+
+====End Log Sun, 15 Dec 2024 16:35:01 +0700 (0)====
+
+
+2024-12-15T10:17:50+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log Sun, 15 Dec 2024 17:17:50 +0700====
+Array
+(
+    [transaction_details] => Array
+        (
+            [order_id] => 273
+            [gross_amount] => 50000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => John
+            [last_name] => Doe
+            [email] => agismaulana112@gmail.com
+            [phone] => 085320344197
+            [billing_address] => Array
+                (
+                    [first_name] => John
+                    [last_name] => Doe
+                    [address] => Jl. Muttaqin IV 002/010 DF14/15 Pondok Petir Bojongsari Depok Jawa Barat Indonesia 16517
+                    [city] => Depok
+                    [postal_code] => 16517
+                    [phone] => 085320344197
+                    [country_code] => IDN
+                )
+
+            [shipping_address] => Array
+                (
+                    [first_name] => John
+                    [last_name] => Doe
+                    [address] => Jl. Muttaqin IV 002/010 DF14/15 Pondok Petir Bojongsari Depok Jawa Barat Indonesia 16517
+                    [city] => Depok
+                    [postal_code] => 16517
+                    [phone] => 085320344197
+                    [country_code] => IDN
+                )
+
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 85
+                    [price] => 50000
+                    [quantity] => 1
+                    [name] => Whiskas
+                )
+
+        )
+
+    [credit_card] => Array
+        (
+            [secure] => 1
+        )
+
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [version] => 2.32.3
+                    [wc] => 9.4.3
+                    [php] => 8.1.10
+                )
+
+        )
+
+    [enabled_payments] => Array
+        (
+            [0] => bca_va
+        )
+
+)
+
+====End Log Sun, 15 Dec 2024 17:17:50 +0700 (0)====
+
+
+2024-12-15T13:02:19+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log Sun, 15 Dec 2024 20:02:19 +0700====
+Array
+(
+    [transaction_details] => Array
+        (
+            [order_id] => 274
+            [gross_amount] => 60000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => John
+            [last_name] => Doe
+            [email] => agismaulana112@gmail.com
+            [phone] => 085320344197
+            [billing_address] => Array
+                (
+                    [first_name] => John
+                    [last_name] => Doe
+                    [address] => Jl. Muttaqin IV 002/010 DF14/15 Pondok Petir Bojongsari Depok Jawa Barat Indonesia 16517
+                    [city] => Kota Depok
+                    [postal_code] => 16517
+                    [phone] => 085320344197
+                    [country_code] => IDN
+                )
+
+            [shipping_address] => Array
+                (
+                    [first_name] => John
+                    [last_name] => Doe
+                    [address] => Jl. Muttaqin IV 002/010 DF14/15 Pondok Petir Bojongsari Depok Jawa Barat Indonesia 16517
+                    [city] => Kota Depok
+                    [postal_code] => 16517
+                    [phone] => 085320344197
+                    [country_code] => IDN
+                )
+
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 85
+                    [price] => 50000
+                    [quantity] => 1
+                    [name] => Whiskas
+                )
+
+            [1] => Array
+                (
+                    [id] => shippingfee
+                    [price] => 10000
+                    [quantity] => 1
+                    [name] => Shipping Fee
+                )
+
+        )
+
+    [credit_card] => Array
+        (
+            [secure] => 1
+        )
+
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [version] => 2.32.3
+                    [wc] => 9.4.3
+                    [php] => 8.1.10
+                )
+
+        )
+
+    [enabled_payments] => Array
+        (
+            [0] => bca_va
+        )
+
+)
+
+====End Log Sun, 15 Dec 2024 20:02:19 +0700 (0)====
+
+
+2024-12-15T13:10:59+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log Sun, 15 Dec 2024 20:10:59 +0700====
+Array
+(
+    [transaction_details] => Array
+        (
+            [order_id] => 275
+            [gross_amount] => 668000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => John
+            [last_name] => Doe
+            [email] => agismaulana112@gmail.com
+            [phone] => 085320344197
+            [billing_address] => Array
+                (
+                    [first_name] => John
+                    [last_name] => Doe
+                    [address] => Jl. Muttaqin IV 002/010 DF14/15 Pondok Petir Bojongsari Depok Jawa Barat Indonesia 16517
+                    [city] => Kota Depok
+                    [postal_code] => 16517
+                    [phone] => 085320344197
+                    [country_code] => IDN
+                )
+
+            [shipping_address] => Array
+                (
+                    [first_name] => John
+                    [last_name] => Doe
+                    [address] => Jl. Muttaqin IV 002/010 DF14/15 Pondok Petir Bojongsari Depok Jawa Barat Indonesia 16517
+                    [city] => Kota Depok
+                    [postal_code] => 16517
+                    [phone] => 085320344197
+                    [country_code] => IDN
+                )
+
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 95
+                    [price] => 650000
+                    [quantity] => 1
+                    [name] => Kandang Jinjing Hewan
+                )
+
+            [1] => Array
+                (
+                    [id] => shippingfee
+                    [price] => 18000
+                    [quantity] => 1
+                    [name] => Shipping Fee
+                )
+
+        )
+
+    [credit_card] => Array
+        (
+            [secure] => 1
+        )
+
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [version] => 2.32.3
+                    [wc] => 9.4.3
+                    [php] => 8.1.10
+                )
+
+        )
+
+    [enabled_payments] => Array
+        (
+            [0] => bca_va
+        )
+
+)
+
+====End Log Sun, 15 Dec 2024 20:10:59 +0700 (0)====
+
+

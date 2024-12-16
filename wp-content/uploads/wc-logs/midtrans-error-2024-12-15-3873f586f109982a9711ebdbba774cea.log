@@ -1,0 +1,7 @@
+2024-12-15T09:33:33+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log Sun, 15 Dec 2024 16:33:33 +0700====
+Midtrans Error (400): {"error_messages":["credit_card.bank should be one of [BCA, BNI, MANDIRI, CIMB, BRI, MAYBANK, MEGA]"]} | Request url: https://app.sandbox.midtrans.com/snap/v1/transactions
+====End Log Sun, 15 Dec 2024 16:33:33 +0700 (0)====
+
+

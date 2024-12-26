@@ -1,0 +1,12 @@
+2024-12-17T12:43:44+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log Tue, 17 Dec 2024 19:43:44 +0700====
+CURL Error: Failed to connect to app.sandbox.midtrans.com port 443 after 214673 ms: Connection timed out
+====End Log Tue, 17 Dec 2024 19:43:44 +0700 (0)====
+
+2024-12-17T12:44:51+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log Tue, 17 Dec 2024 19:44:51 +0700====
+CURL Error: Failed to connect to app.sandbox.midtrans.com port 443 after 215014 ms: Connection timed out
+====End Log Tue, 17 Dec 2024 19:44:51 +0700 (0)====
+

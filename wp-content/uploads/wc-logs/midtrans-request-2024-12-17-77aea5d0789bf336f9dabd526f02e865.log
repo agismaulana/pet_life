@@ -1,0 +1,1032 @@
+2024-12-17T03:39:07+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log Tue, 17 Dec 2024 10:39:07 +0700====
+Array
+(
+    [transaction_details] => Array
+        (
+            [order_id] => 318
+            [gross_amount] => 60000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => Fadil
+            [last_name] => Ganteng
+            [email] => fadilmadhon22@gmail.com
+            [phone] => 089501549125
+            [billing_address] => Array
+                (
+                    [first_name] => Fadil
+                    [last_name] => Ganteng
+                    [address] => Jl. Ciater Barat RT 03 RW 01
+                    [city] => Kota Bogor
+                    [postal_code] => 16517
+                    [phone] => 089501549125
+                    [country_code] => IDN
+                )
+
+            [shipping_address] => Array
+                (
+                    [first_name] => John
+                    [last_name] => Doe
+                    [address] => Jl. Muttaqin IV 002/010 DF14/15 Pondok Petir Bojongsari Depok Jawa Barat Indonesia 16517
+                    [city] => Kota Depok
+                    [postal_code] => 16517
+                    [phone] => 089501549125
+                    [country_code] => IDN
+                )
+
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 85
+                    [price] => 50000
+                    [quantity] => 1
+                    [name] => Whiskas
+                )
+
+            [1] => Array
+                (
+                    [id] => shippingfee
+                    [price] => 10000
+                    [quantity] => 1
+                    [name] => Shipping Fee
+                )
+
+        )
+
+    [credit_card] => Array
+        (
+            [secure] => 1
+        )
+
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [version] => 2.32.3
+                    [wc] => 9.4.3
+                    [php] => 8.2.26
+                )
+
+        )
+
+    [enabled_payments] => Array
+        (
+            [0] => bca_va
+        )
+
+)
+
+====End Log Tue, 17 Dec 2024 10:39:07 +0700 (0)====
+
+2024-12-17T09:39:09+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log Tue, 17 Dec 2024 16:39:09 +0700====
+Array
+(
+    [transaction_details] => Array
+        (
+            [order_id] => 319
+            [gross_amount] => 19950
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => Fadil
+            [last_name] => Ganteng
+            [email] => fadilmadhon22@gmail.com
+            [phone] => 089501549125
+            [billing_address] => Array
+                (
+                    [first_name] => Fadil
+                    [last_name] => Ganteng
+                    [address] => Jl. Ciater Barat RT 03 RW 01
+                    [city] => Kota Bogor
+                    [postal_code] => 16517
+                    [phone] => 089501549125
+                    [country_code] => IDN
+                )
+
+            [shipping_address] => Array
+                (
+                    [first_name] => Fadil
+                    [last_name] => Ganteng
+                    [address] => Jl. Ciater Barat RT 03 RW 01
+                    [city] => Kota Bogor
+                    [postal_code] => 16517
+                    [phone] => 089501549125
+                    [country_code] => IDN
+                )
+
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 93
+                    [price] => 9950
+                    [quantity] => 1
+                    [name] => Aksesoris kalung hewan kurmin
+                )
+
+            [1] => Array
+                (
+                    [id] => shippingfee
+                    [price] => 10000
+                    [quantity] => 1
+                    [name] => Shipping Fee
+                )
+
+        )
+
+    [credit_card] => Array
+        (
+            [secure] => 1
+        )
+
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [version] => 2.32.3
+                    [wc] => 9.4.3
+                    [php] => 8.2.26
+                )
+
+        )
+
+    [enabled_payments] => Array
+        (
+            [0] => gopay
+        )
+
+)
+
+====End Log Tue, 17 Dec 2024 16:39:09 +0700 (0)====
+
+2024-12-17T10:21:55+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log Tue, 17 Dec 2024 17:21:55 +0700====
+Array
+(
+    [transaction_details] => Array
+        (
+            [order_id] => 328
+            [gross_amount] => 1210000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => Fadil
+            [last_name] => Ganteng
+            [email] => fadilmadhon22@gmail.com
+            [phone] => 089501549125
+            [billing_address] => Array
+                (
+                    [first_name] => Fadil
+                    [last_name] => Ganteng
+                    [address] => Jl. Ciater Barat RT 03 RW 01
+                    [city] => Kota Bogor
+                    [postal_code] => 16517
+                    [phone] => 089501549125
+                    [country_code] => IDN
+                )
+
+            [shipping_address] => Array
+                (
+                    [first_name] => Fadil
+                    [last_name] => Ganteng
+                    [address] => Jl. Ciater Barat RT 03 RW 01
+                    [city] => Kota Bogor
+                    [postal_code] => 16517
+                    [phone] => 089501549125
+                    [country_code] => IDN
+                )
+
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 94
+                    [price] => 1200000
+                    [quantity] => 1
+                    [name] => Tas dan Set Simpan Kucing
+                )
+
+            [1] => Array
+                (
+                    [id] => shippingfee
+                    [price] => 10000
+                    [quantity] => 1
+                    [name] => Shipping Fee
+                )
+
+        )
+
+    [credit_card] => Array
+        (
+            [secure] => 1
+        )
+
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [version] => 2.32.3
+                    [wc] => 9.4.3
+                    [php] => 8.2.26
+                )
+
+        )
+
+    [enabled_payments] => Array
+        (
+            [0] => bni_va
+        )
+
+)
+
+====End Log Tue, 17 Dec 2024 17:21:55 +0700 (0)====
+
+2024-12-17T10:37:00+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log Tue, 17 Dec 2024 17:37:00 +0700====
+Array
+(
+    [transaction_details] => Array
+        (
+            [order_id] => 329
+            [gross_amount] => 130000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => Fadil
+            [last_name] => Ganteng
+            [email] => fadilmadhon22@gmail.com
+            [phone] => 089501549125
+            [billing_address] => Array
+                (
+                    [first_name] => Fadil
+                    [last_name] => Ganteng
+                    [address] => Jl. Ciater Barat RT 03 RW 01
+                    [city] => Kota Bogor
+                    [postal_code] => 16517
+                    [phone] => 089501549125
+                    [country_code] => IDN
+                )
+
+            [shipping_address] => Array
+                (
+                    [first_name] => Fadil
+                    [last_name] => Ganteng
+                    [address] => Jl. Ciater Barat RT 03 RW 01
+                    [city] => Kota Bogor
+                    [postal_code] => 16517
+                    [phone] => 089501549125
+                    [country_code] => IDN
+                )
+
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 92
+                    [price] => 120000
+                    [quantity] => 1
+                    [name] => Royal Canin Large
+                )
+
+            [1] => Array
+                (
+                    [id] => shippingfee
+                    [price] => 10000
+                    [quantity] => 1
+                    [name] => Shipping Fee
+                )
+
+        )
+
+    [credit_card] => Array
+        (
+            [secure] => 1
+        )
+
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [version] => 2.32.3
+                    [wc] => 9.4.3
+                    [php] => 8.2.26
+                )
+
+        )
+
+    [enabled_payments] => Array
+        (
+            [0] => bca_va
+        )
+
+)
+
+====End Log Tue, 17 Dec 2024 17:37:00 +0700 (0)====
+
+2024-12-17T12:04:36+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log Tue, 17 Dec 2024 19:04:36 +0700====
+Array
+(
+    [transaction_details] => Array
+        (
+            [order_id] => 330
+            [gross_amount] => 243000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => Fadil
+            [last_name] => Ganteng
+            [email] => fadilmadhon22@gmail.com
+            [phone] => 089501549125
+            [billing_address] => Array
+                (
+                    [first_name] => Fadil
+                    [last_name] => Ganteng
+                    [address] => Jl. Ciater Barat RT 03 RW 01
+                    [city] => Kota Bogor
+                    [postal_code] => 16517
+                    [phone] => 089501549125
+                    [country_code] => IDN
+                )
+
+            [shipping_address] => Array
+                (
+                    [first_name] => Fadil
+                    [last_name] => Ganteng
+                    [address] => Jl. Ciater Barat RT 03 RW 01
+                    [city] => Kota Bogor
+                    [postal_code] => 16517
+                    [phone] => 089501549125
+                    [country_code] => IDN
+                )
+
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 84
+                    [price] => 225000
+                    [quantity] => 1
+                    [name] => Royal Canin Persian
+                )
+
+            [1] => Array
+                (
+                    [id] => shippingfee
+                    [price] => 18000
+                    [quantity] => 1
+                    [name] => Shipping Fee
+                )
+
+        )
+
+    [credit_card] => Array
+        (
+            [secure] => 1
+        )
+
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [version] => 2.32.3
+                    [wc] => 9.4.3
+                    [php] => 8.2.26
+                )
+
+        )
+
+    [enabled_payments] => Array
+        (
+            [0] => bca_va
+        )
+
+)
+
+====End Log Tue, 17 Dec 2024 19:04:36 +0700 (0)====
+
+2024-12-17T12:12:05+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log Tue, 17 Dec 2024 19:12:05 +0700====
+Array
+(
+    [transaction_details] => Array
+        (
+            [order_id] => 332
+            [gross_amount] => 5018000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => Fadil
+            [last_name] => Ganteng
+            [email] => fadilmadhon22@gmail.com
+            [phone] => 089501549125
+            [billing_address] => Array
+                (
+                    [first_name] => Fadil
+                    [last_name] => Ganteng
+                    [address] => Jl. Ciater Barat RT 03 RW 01
+                    [city] => Kota Bogor
+                    [postal_code] => 16517
+                    [phone] => 089501549125
+                    [country_code] => IDN
+                )
+
+            [shipping_address] => Array
+                (
+                    [first_name] => Fadil
+                    [last_name] => Ganteng
+                    [address] => Jl. Ciater Barat RT 03 RW 01
+                    [city] => Kota Bogor
+                    [postal_code] => 16517
+                    [phone] => 089501549125
+                    [country_code] => IDN
+                )
+
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 97
+                    [price] => 5000000
+                    [quantity] => 1
+                    [name] => Kucing Putih
+                )
+
+            [1] => Array
+                (
+                    [id] => shippingfee
+                    [price] => 18000
+                    [quantity] => 1
+                    [name] => Shipping Fee
+                )
+
+        )
+
+    [credit_card] => Array
+        (
+            [secure] => 1
+        )
+
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [version] => 2.32.3
+                    [wc] => 9.4.3
+                    [php] => 8.2.26
+                )
+
+        )
+
+    [enabled_payments] => Array
+        (
+            [0] => bca_va
+        )
+
+)
+
+====End Log Tue, 17 Dec 2024 19:12:05 +0700 (0)====
+
+2024-12-17T12:25:18+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log Tue, 17 Dec 2024 19:25:18 +0700====
+Array
+(
+    [transaction_details] => Array
+        (
+            [order_id] => 334
+            [gross_amount] => 19950
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => agis
+            [last_name] => maulana
+            [email] => agis@gmail.com
+            [phone] => +6285320344197
+            [billing_address] => Array
+                (
+                    [first_name] => agis
+                    [last_name] => maulana
+                    [address] => Jl. Muttaqin IV 002/010 DF14/15 Pondok Petir Bojongsari Depok Jawa Barat Indonesia 16517
+                    [city] => Kota Depok
+                    [postal_code] => 16517
+                    [phone] => +6285320344197
+                    [country_code] => IDN
+                )
+
+            [shipping_address] => Array
+                (
+                    [first_name] => agis
+                    [last_name] => maulana
+                    [address] => Jl. Muttaqin IV 002/010 DF14/15 Pondok Petir Bojongsari Depok Jawa Barat Indonesia 16517
+                    [city] => Kota Depok
+                    [postal_code] => 16517
+                    [phone] => +6285320344197
+                    [country_code] => IDN
+                )
+
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 93
+                    [price] => 9950
+                    [quantity] => 1
+                    [name] => Aksesoris kalung hewan kurmin
+                )
+
+            [1] => Array
+                (
+                    [id] => shippingfee
+                    [price] => 10000
+                    [quantity] => 1
+                    [name] => Shipping Fee
+                )
+
+        )
+
+    [credit_card] => Array
+        (
+            [secure] => 1
+        )
+
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [version] => 2.32.3
+                    [wc] => 9.4.3
+                    [php] => 8.2.26
+                )
+
+        )
+
+    [enabled_payments] => Array
+        (
+            [0] => bca_va
+        )
+
+)
+
+====End Log Tue, 17 Dec 2024 19:25:18 +0700 (0)====
+
+2024-12-17T12:31:16+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log Tue, 17 Dec 2024 19:31:16 +0700====
+Array
+(
+    [transaction_details] => Array
+        (
+            [order_id] => 335
+            [gross_amount] => 218000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => Fadil
+            [last_name] => Ganteng
+            [email] => fadilmadhon22@gmail.com
+            [phone] => 089501549125
+            [billing_address] => Array
+                (
+                    [first_name] => Fadil
+                    [last_name] => Ganteng
+                    [address] => Jl. Ciater Barat RT 03 RW 01
+                    [city] => Kota Bogor
+                    [postal_code] => 16517
+                    [phone] => 089501549125
+                    [country_code] => IDN
+                )
+
+            [shipping_address] => Array
+                (
+                    [first_name] => Fadil
+                    [last_name] => Ganteng
+                    [address] => Jl. Ciater Barat RT 03 RW 01
+                    [city] => Kota Bogor
+                    [postal_code] => 16517
+                    [phone] => 089501549125
+                    [country_code] => IDN
+                )
+
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 96
+                    [price] => 200000
+                    [quantity] => 1
+                    [name] => Royal Canin British
+                )
+
+            [1] => Array
+                (
+                    [id] => shippingfee
+                    [price] => 18000
+                    [quantity] => 1
+                    [name] => Shipping Fee
+                )
+
+        )
+
+    [credit_card] => Array
+        (
+            [secure] => 1
+        )
+
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [version] => 2.32.3
+                    [wc] => 9.4.3
+                    [php] => 8.2.26
+                )
+
+        )
+
+    [enabled_payments] => Array
+        (
+            [0] => bca_va
+        )
+
+)
+
+====End Log Tue, 17 Dec 2024 19:31:16 +0700 (0)====
+
+2024-12-17T12:40:09+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log Tue, 17 Dec 2024 19:40:09 +0700====
+Array
+(
+    [transaction_details] => Array
+        (
+            [order_id] => 336
+            [gross_amount] => 5018000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => Fadil
+            [last_name] => Ganteng
+            [email] => fadilmadhon22@gmail.com
+            [phone] => 089501549125
+            [billing_address] => Array
+                (
+                    [first_name] => Fadil
+                    [last_name] => Ganteng
+                    [address] => Jl. Ciater Barat RT 03 RW 01
+                    [city] => Kota Bogor
+                    [postal_code] => 16517
+                    [phone] => 089501549125
+                    [country_code] => IDN
+                )
+
+            [shipping_address] => Array
+                (
+                    [first_name] => Fadil
+                    [last_name] => Ganteng
+                    [address] => Jl. Ciater Barat RT 03 RW 01
+                    [city] => Kota Bogor
+                    [postal_code] => 16517
+                    [phone] => 089501549125
+                    [country_code] => IDN
+                )
+
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 97
+                    [price] => 5000000
+                    [quantity] => 1
+                    [name] => Kucing Putih
+                )
+
+            [1] => Array
+                (
+                    [id] => shippingfee
+                    [price] => 18000
+                    [quantity] => 1
+                    [name] => Shipping Fee
+                )
+
+        )
+
+    [credit_card] => Array
+        (
+            [secure] => 1
+        )
+
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [version] => 2.32.3
+                    [wc] => 9.4.3
+                    [php] => 8.2.26
+                )
+
+        )
+
+    [enabled_payments] => Array
+        (
+            [0] => bca_va
+        )
+
+)
+
+====End Log Tue, 17 Dec 2024 19:40:09 +0700 (0)====
+
+2024-12-17T12:41:16+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log Tue, 17 Dec 2024 19:41:16 +0700====
+Array
+(
+    [transaction_details] => Array
+        (
+            [order_id] => 336
+            [gross_amount] => 5018000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => Fadil
+            [last_name] => Ganteng
+            [email] => fadilmadhon22@gmail.com
+            [phone] => 089501549125
+            [billing_address] => Array
+                (
+                    [first_name] => Fadil
+                    [last_name] => Ganteng
+                    [address] => Jl. Ciater Barat RT 03 RW 01
+                    [city] => Kota Bogor
+                    [postal_code] => 16517
+                    [phone] => 089501549125
+                    [country_code] => IDN
+                )
+
+            [shipping_address] => Array
+                (
+                    [first_name] => Fadil
+                    [last_name] => Ganteng
+                    [address] => Jl. Ciater Barat RT 03 RW 01
+                    [city] => Kota Bogor
+                    [postal_code] => 16517
+                    [phone] => 089501549125
+                    [country_code] => IDN
+                )
+
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 97
+                    [price] => 5000000
+                    [quantity] => 1
+                    [name] => Kucing Putih
+                )
+
+            [1] => Array
+                (
+                    [id] => shippingfee
+                    [price] => 18000
+                    [quantity] => 1
+                    [name] => Shipping Fee
+                )
+
+        )
+
+    [credit_card] => Array
+        (
+            [secure] => 1
+        )
+
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [version] => 2.32.3
+                    [wc] => 9.4.3
+                    [php] => 8.2.26
+                )
+
+        )
+
+    [enabled_payments] => Array
+        (
+            [0] => bca_va
+        )
+
+)
+
+====End Log Tue, 17 Dec 2024 19:41:16 +0700 (0)====
+
+2024-12-17T12:42:57+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log Tue, 17 Dec 2024 19:42:57 +0700====
+Array
+(
+    [transaction_details] => Array
+        (
+            [order_id] => 336
+            [gross_amount] => 5018000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => Fadil
+            [last_name] => Ganteng
+            [email] => fadilmadhon22@gmail.com
+            [phone] => 089501549125
+            [billing_address] => Array
+                (
+                    [first_name] => Fadil
+                    [last_name] => Ganteng
+                    [address] => Jl. Ciater Barat RT 03 RW 01
+                    [city] => Kota Bogor
+                    [postal_code] => 16517
+                    [phone] => 089501549125
+                    [country_code] => IDN
+                )
+
+            [shipping_address] => Array
+                (
+                    [first_name] => Fadil
+                    [last_name] => Ganteng
+                    [address] => Jl. Ciater Barat RT 03 RW 01
+                    [city] => Kota Bogor
+                    [postal_code] => 16517
+                    [phone] => 089501549125
+                    [country_code] => IDN
+                )
+
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 97
+                    [price] => 5000000
+                    [quantity] => 1
+                    [name] => Kucing Putih
+                )
+
+            [1] => Array
+                (
+                    [id] => shippingfee
+                    [price] => 18000
+                    [quantity] => 1
+                    [name] => Shipping Fee
+                )
+
+        )
+
+    [credit_card] => Array
+        (
+            [secure] => 1
+        )
+
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [version] => 2.32.3
+                    [wc] => 9.4.3
+                    [php] => 8.2.26
+                )
+
+        )
+
+    [enabled_payments] => Array
+        (
+            [0] => bca_va
+        )
+
+)
+
+====End Log Tue, 17 Dec 2024 19:42:57 +0700 (0)====
+
+2024-12-17T12:58:02+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log Tue, 17 Dec 2024 19:58:02 +0700====
+Array
+(
+    [transaction_details] => Array
+        (
+            [order_id] => 337
+            [gross_amount] => 5010000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => agis
+            [last_name] => maulana
+            [email] => agis@gmail.com
+            [phone] => +6285320344197
+            [billing_address] => Array
+                (
+                    [first_name] => agis
+                    [last_name] => maulana
+                    [address] => Jl. Muttaqin IV 002/010 DF14/15 Pondok Petir Bojongsari Depok Jawa Barat Indonesia 16517
+                    [city] => Kota Depok
+                    [postal_code] => 16517
+                    [phone] => +6285320344197
+                    [country_code] => IDN
+                )
+
+            [shipping_address] => Array
+                (
+                    [first_name] => agis
+                    [last_name] => maulana
+                    [address] => Jl. Muttaqin IV 002/010 DF14/15 Pondok Petir Bojongsari Depok Jawa Barat Indonesia 16517
+                    [city] => Kota Depok
+                    [postal_code] => 16517
+                    [phone] => +6285320344197
+                    [country_code] => IDN
+                )
+
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 97
+                    [price] => 5000000
+                    [quantity] => 1
+                    [name] => Kucing Putih
+                )
+
+            [1] => Array
+                (
+                    [id] => shippingfee
+                    [price] => 10000
+                    [quantity] => 1
+                    [name] => Shipping Fee
+                )
+
+        )
+
+    [credit_card] => Array
+        (
+            [secure] => 1
+        )
+
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [version] => 2.32.3
+                    [wc] => 9.4.3
+                    [php] => 8.2.26
+                )
+
+        )
+
+    [enabled_payments] => Array
+        (
+            [0] => bca_va
+        )
+
+)
+
+====End Log Tue, 17 Dec 2024 19:58:02 +0700 (0)====
+

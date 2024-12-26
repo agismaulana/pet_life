@@ -1,0 +1,47 @@
+2024-12-25T16:01:10+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log====
+Array
+(
+    [va_numbers] => Array
+        (
+            [0] => Array
+                (
+                    [va_number] => 351761345180641706
+                    [bank] => bri
+                )
+
+        )
+
+    [transaction_time] => 2024-12-25 23:01:09
+    [transaction_status] => pending
+    [transaction_id] => 190bbf71-a12e-476f-93cb-88e74f19764b
+    [status_message] => midtrans payment notification
+    [status_code] => 201
+    [signature_key] => c347bd97bddf61194e593e4f4e8f77327d1cd289b9a025a889032b82b2419e6be1984d58c9874261203531f7f65710e2f68617a946b2dce6846602226a05419e
+    [payment_type] => bank_transfer
+    [payment_amounts] => Array
+        (
+        )
+
+    [order_id] => 341
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [wc] => 9.4.3
+                    [version] => 2.32.3
+                    [php] => 8.2.26
+                )
+
+        )
+
+    [merchant_id] => G660035176
+    [gross_amount] => 19950.00
+    [fraud_status] => accept
+    [expiry_time] => 2024-12-26 23:01:09
+    [currency] => IDR
+)
+
+====End Log====
+

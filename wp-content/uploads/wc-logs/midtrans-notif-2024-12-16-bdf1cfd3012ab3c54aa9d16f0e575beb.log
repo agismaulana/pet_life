@@ -1,0 +1,95 @@
+2024-12-16T17:26:46+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log====
+Array
+(
+    [va_numbers] => Array
+        (
+            [0] => Array
+                (
+                    [va_number] => 35176339213697305465415
+                    [bank] => bca
+                )
+
+        )
+
+    [transaction_time] => 2024-12-17 00:26:44
+    [transaction_status] => pending
+    [transaction_id] => e8058583-aa0c-48ab-8204-b2e88f591fcc
+    [status_message] => midtrans payment notification
+    [status_code] => 201
+    [signature_key] => 99dd99ebe2a2a1d8dc9d32e25ad5ab1627101e069226affc06580217ff6fe8abab1b13643602ae9d872b06f3070d12b4d719cd4287b940189baf5cae73f1022c
+    [payment_type] => bank_transfer
+    [payment_amounts] => Array
+        (
+        )
+
+    [order_id] => 278
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [wc] => 9.4.3
+                    [version] => 2.32.3
+                    [php] => 8.2.26
+                )
+
+        )
+
+    [merchant_id] => G660035176
+    [gross_amount] => 138000.00
+    [fraud_status] => accept
+    [expiry_time] => 2024-12-18 00:26:44
+    [currency] => IDR
+)
+
+====End Log====
+
+2024-12-16T17:27:10+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.3====
+====Start Log====
+Array
+(
+    [va_numbers] => Array
+        (
+            [0] => Array
+                (
+                    [va_number] => 35176339213697305465415
+                    [bank] => bca
+                )
+
+        )
+
+    [transaction_time] => 2024-12-17 00:26:44
+    [transaction_status] => settlement
+    [transaction_id] => e8058583-aa0c-48ab-8204-b2e88f591fcc
+    [status_message] => midtrans payment notification
+    [status_code] => 200
+    [signature_key] => a65ada60a449d0c761fde84a25f036640b7f52fd8fc3c6115afaf6a51ef94fc1e12c8fc29aac571f72d0cf15ce66509513c434a93a37fbb2d7dd432394434e30
+    [settlement_time] => 2024-12-17 00:27:09
+    [payment_type] => bank_transfer
+    [payment_amounts] => Array
+        (
+        )
+
+    [order_id] => 278
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [wc] => 9.4.3
+                    [version] => 2.32.3
+                    [php] => 8.2.26
+                )
+
+        )
+
+    [merchant_id] => G660035176
+    [gross_amount] => 138000.00
+    [fraud_status] => accept
+    [expiry_time] => 2024-12-18 00:26:44
+    [currency] => IDR
+)
+
+====End Log====
+
